@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Abhinav Shekhar — AI & Robotics Engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/assets/hero.svg" alt="Abhinav Shekhar - AI and Robotics Engineering" width="900" />
 </div>
 
 <p align="center">
@@ -25,7 +25,7 @@ That has led me from **medical imaging assistants** to **hackathon prototypes**,
 ---
 
 <div align="center">
-  <img src="assets/radar.svg" alt="Technical capability radar" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/assets/radar.svg" alt="Technical capability radar" width="900" />
 </div>
 
 ---
@@ -33,7 +33,7 @@ That has led me from **medical imaging assistants** to **hackathon prototypes**,
 ## Selected Systems
 
 <div align="center">
-  <img src="assets/showcase.svg" alt="Selected engineering systems and outcomes" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/assets/showcase.svg" alt="Selected engineering systems and outcomes" width="900" />
 </div>
 
 ### 🏥 [Radiology AI](https://github.com/abhinavshekhar/radiology-ai)
@@ -72,7 +72,7 @@ Practical field-data recording for agricultural workflows — my first serious f
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,html,css,kotlin,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,kotlin,docker,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -81,8 +81,12 @@ Practical field-data recording for agricultural workflows — my first serious f
 ## GitHub Telemetry
 
 <div align="center">
-  <img src="github-stats.svg" alt="GitHub activity and repository statistics" width="49%" />
-  <img src="github-languages.svg" alt="Most used languages" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavshekhar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavshekhar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshekhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
 </div>
 
 ---
