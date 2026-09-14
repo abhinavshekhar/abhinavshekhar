@@ -82,10 +82,10 @@ Practical field-data recording for agricultural workflows — my first serious f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavshekhar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavshekhar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
+<img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-stats.svg" alt="GitHub Stats" width="415" />
+<img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-languages.svg" alt="Top Languages" width="415" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshekhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=abhinavshekhar&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="GitHub Streak" width="415" />
 
 </div>
 
