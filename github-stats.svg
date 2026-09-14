@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 195" width="415" height="195" role="img" aria-label="GitHub activity statistics">
+  <rect width="415" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="32" fill="#58a6ff" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="700">Abhinav Shekhar</text>
+  <text x="20" y="52" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">GitHub Activity</text>
+
+  <text x="20" y="88" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="13">=æ Public Repositories</text>
+  <text x="360" y="88" text-anchor="end" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">18</text>
+
+  <text x="20" y="116" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="13">=% Total Commits</text>
+  <text x="360" y="116" text-anchor="end" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">92+</text>
+
+  <text x="20" y="144" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="13">=e Followers</text>
+  <text x="360" y="144" text-anchor="end" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">1</text>
+
+  <text x="20" y="172" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="13"><“ Focus</text>
+  <text x="360" y="172" text-anchor="end" fill="#7ee787" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600">AI &amp; Robotics</text>
+</svg>
