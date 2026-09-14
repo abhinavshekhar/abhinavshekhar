@@ -2,13 +2,14 @@
 
 # Hi, I'm Abhinav Shekhar 👋
 
-### AI · Security · Full-Stack Developer
+### AI & Robotics Engineer · VIT Chennai
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/abhinavshekhar/my-website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-shekhar-aa8b06411)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinavshekhar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavshekhar)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavshekhar@users.noreply.github.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavshekharofficial@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+solve+real+problems;CTF+%7C+Hackathons+%7C+Open+Source;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+AI+%26+Robotics+%40+VIT+Chennai;Building+intelligent+systems+that+don%27t+just+think;CTF+%7C+Hackathons+%7C+Open+Source" alt="Typing SVG" />
 
 </div>
 
@@ -16,8 +17,9 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about **AI agents**, **cybersecurity**, and **full-stack engineering**. I love building things that push boundaries — from autonomous CTF solvers to medical imaging assistants.
+First-year **B.Tech CSE (AI & Robotics)** student at **VIT Chennai**, building toward embodied intelligence. I'm passionate about **AI agents**, **cybersecurity**, and **full-stack engineering** — from autonomous CTF solvers to medical imaging assistants.
 
+- 🎓 **VIT Chennai** — CSE (AI & Robotics), First Year
 - 🏆 **1st Place** — BSidesSF 2026 CTF with [ctf-agent](https://github.com/abhinavshekhar/ctf-agent) (52/52 challenges solved)
 - 🧠 Building multi-model AI systems that race in parallel to find solutions
 - 🏥 Worked on **Radiology AI** — chest X-ray, CT, MRI & ultrasound analysis
@@ -100,8 +102,10 @@ I'm a developer passionate about **AI agents**, **cybersecurity**, and **full-st
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-shekhar-aa8b06411)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavshekhar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abhinavshekhar/my-website)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavshekharofficial@gmail.com)
 
 </div>
 
