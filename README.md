@@ -83,9 +83,9 @@ Practical field-data recording for agricultural workflows — my first serious f
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-stats.svg" alt="GitHub Stats" width="415" />
-<img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-languages.svg" alt="Top Languages" width="415" />
+<img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-streak.svg" alt="GitHub Streak" width="415" />
 
-<img src="https://streak-stats.demolab.com/?user=abhinavshekhar&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="GitHub Streak" width="415" />
+<img src="https://raw.githubusercontent.com/abhinavshekhar/abhinavshekhar/main/github-languages.svg" alt="Top Languages" width="415" />
 
 </div>
 
